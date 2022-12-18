@@ -1,3 +1,10 @@
+# Notebook
+
+CRUD application on a web server working with a database
+
+
+
+
 AppFuse Basic Spring MVC Archetype
 --------------------------------------------------------------------------------
 If you're reading this then you've created your new project using Maven and
